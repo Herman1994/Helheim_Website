@@ -1,6 +1,6 @@
 # Helheim Website
 
-[[Travis]]https://app.travis-ci.com/Herman1994/Website.svg?branch=master
+[![Travis](https://img.shields.io/travis/Herman1994/Website.svg?style=flat-square)](https://travis-ci.org/Herman1994/Website)
 
 ## Install
 
