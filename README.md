@@ -2,7 +2,6 @@
 
 [![Travis](https://img.shields.io/travis/AbsoluteCraft/Website.svg?style=flat-square)](https://travis-ci.org/AbsoluteCraft/Website) [![Deploys With Chappy](https://img.shields.io/badge/deploys%20with-chappy-ff69b4.svg?style=flat-square)](https://github.com/danbovey/Chappy)
 
-![Website Screenshot](http://i.imgur.com/WTe7qFZ.png)
 
 ## Install
 
